@@ -18,7 +18,7 @@ This is a **Stone-Paper-Scissors** game written in **C++** as a console applicat
 
 ## 🛠️ How to Run
 1. Clone the repository:
-```bash
+
 git clone https://github.com/ShriKant114/My-first-project
 ```
 
