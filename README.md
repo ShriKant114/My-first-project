@@ -3,8 +3,6 @@
 ```markdown
 # 🪨📄✂️ Stone-Paper-Scissors Game (C++ Version)
 
-![Stone-Paper-Scissors](./assets/game-preview.png)
-
 ## 🎯 About the Project
 This is a **Stone-Paper-Scissors** game written in **C++** as a console application. The game allows the user to play against the computer, where the computer's move is predefined. The user can play multiple rounds by selecting "yes" after each round.
 
@@ -20,16 +18,12 @@ This is a **Stone-Paper-Scissors** game written in **C++** as a console applicat
 
 ## 🛠️ How to Run
 1. Clone the repository:
-```bash
-git clone <your-repository-link>
+
+git clone <https://github.com/ShriKant114/My-first-project>
 ```
 2. Compile the program:
-```bash
-g++ stone-paper-scissors.cpp -o game
-```
-3. Run the program:
-```bash
-./game
+
+g++ stone_paper_scissors.cpp -o game
 ```
 
 ## 🎮 Gameplay Instructions
