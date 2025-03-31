@@ -42,7 +42,7 @@ g++ stone-paper-scissors.cpp -o game
 4. You can choose to play again by entering **"yes"**.
 
 ## 🖼️ Game Screenshot
-![Gameplay](./assets/screenshot.png)
+![Gameplay](./assets/game-preview.png)
 
 ## 👥 Contributing
 Feel free to contribute by opening issues or creating pull requests. 
