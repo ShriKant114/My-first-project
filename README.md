@@ -18,15 +18,17 @@ This is a **Stone-Paper-Scissors** game written in **C++** as a console applicat
 
 ## 🛠️ How to Run
 1. Clone the repository:
-
+```bash
 git clone https://github.com/ShriKant114/My-first-project
 ```
-2. Compile the program:
 
+2. Compile the program:
+```bash
 g++ stone_paper_scissors.cpp -o game
 ```
-3. Run the program:
 
+3. Run the program:
+```bash
 ./game
 ```
 
@@ -47,3 +49,4 @@ Feel free to contribute by opening issues or creating pull requests.
 
 ## 📄 License
 This project is licensed under the MIT License.
+```
